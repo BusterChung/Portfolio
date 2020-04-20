@@ -9,7 +9,7 @@ Deep learing-based image enhancement(Super resolution, denoising, artifact reduc
 
 AR/VR/MR
 
-Any other Computer Vision & Graphics
+Any other Computer Vision & Graphics fields
 
 # Research Projects
 
@@ -25,9 +25,9 @@ C#
 
 # Awards
 
-NTIRE 2019
+WINNER in NTIRE 2019 Real Image Denoising Challenge track2:sRGB
 
-CLIC 2019
+WINNER in decoding speed in CLIC 2019 low-rate compression
 
 # Publications
 
