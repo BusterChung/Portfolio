@@ -23,13 +23,13 @@ C/C++
 
 C#
 
-# Awards
+## Awards
 
 WINNER in NTIRE 2019 Real Image Denoising Challenge track2:sRGB
 
 WINNER in decoding speed in CLIC 2019 low-rate compression
 
-# Publications
+## Publications
 
 update soon
 
